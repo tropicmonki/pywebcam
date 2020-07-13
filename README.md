@@ -1,2 +1,2 @@
 # pywebcam
-Simple python webcam script
+Basic python script for quick webcam testing
